@@ -3,3 +3,5 @@
 ### Mylogo.png is a logo to be used for a Tech Repair website
 ## File Name: AdditionVisualization.pdf
 ### AditionVisualization.pdf is a flowchart used to show code for adding two integers
+##File Name: Python.png
+###Python.png is code used to add two integers
