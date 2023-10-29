@@ -7,3 +7,7 @@
 ### Python.png is code used to add two integers
 ## File Name: DJFlowerClass.pdf
 ### DJFlowerClass.pdf is a class diagram made for a flower
+## File Name: PythonOOP.png
+### comments explaining the code of a flower class
+## File Name: Flower.py
+### the code for a flower class
