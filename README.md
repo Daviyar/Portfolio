@@ -11,3 +11,5 @@
 ### comments explaining the code of a flower class
 ## Flower.py
 ### the code for a flower class
+## NetworkDesign.png
+### a network design of an infrastructure topology
