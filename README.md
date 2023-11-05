@@ -13,3 +13,5 @@
 ### the code for a flower class
 ## NetworkDesign.png
 ### a network design of an infrastructure topology
+## DJGoddardPolyShift.docx
+### a document contrasting Ceasar Ciphers and Polyalphabetic ciphers with sources and examples
