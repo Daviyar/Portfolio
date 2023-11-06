@@ -15,3 +15,5 @@
 ### a network design of an infrastructure topology
 ## DJGoddardPolyShift.docx
 ### a document contrasting Ceasar Ciphers and Polyalphabetic ciphers with sources and examples
+##SecureBrowser.png
+### Showing the certificate for Twitch.tv which is a secure browser
